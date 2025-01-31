@@ -33,7 +33,7 @@ Ensure you have a Linux system with administrative privileges.
 ### Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/firewall-project.git
+   git clone https://github.com/Hari2605haran/firewall-project.git
    cd firewall-project
    ```
 2. Grant execution permission to the script:
